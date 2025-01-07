@@ -5,8 +5,7 @@ git clone
 cd
 ```
 ### Step-2
-Extrai todos os links de vídeos de uma playlist do YouTube.
-URL da playlist do YouTube
+Extraia todos os links de vídeos adiconando uma playlist do YouTube.
 
 ### Step-3
 Com a Lista de URLs das músicas do YouTube, vá até o main.py e adicione a listagem para baixar as músicas;
