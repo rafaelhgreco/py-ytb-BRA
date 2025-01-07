@@ -11,7 +11,7 @@ Extraia todos os links de vídeos adiconando uma playlist do YouTube.
 Com a Lista de URLs das músicas do YouTube, vá até o main.py e adicione a listagem para baixar as músicas;
 
 ### Step-4
-[Baixe o ffmpeg!](https://www.gyan.dev/ffmpeg/builds/).
+[Baixe o ffmpeg!](https://www.gyan.dev/ffmpeg/builds/).\
 Adicione-o nas Variáveis de Ambiente
 Certifique-se de que:
 • Existe uma pasta chamada "musicas_youtube" no mesmo diretório do seu script
