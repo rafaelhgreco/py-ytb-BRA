@@ -16,4 +16,4 @@ Adicione-o nas Variáveis de Ambiente\
 Certifique-se de que:\
 • Existe uma pasta chamada "musicas_youtube" no mesmo diretório do seu script\
 • A pasta contém os arquivos que você quer converter\
-• O ffmpeg está instalado e configurado corretamente no seu sistema\
+• O ffmpeg está instalado e configurado corretamente no seu sistema
