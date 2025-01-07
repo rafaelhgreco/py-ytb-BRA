@@ -12,8 +12,8 @@ Com a Lista de URLs das músicas do YouTube, vá até o main.py e adicione a lis
 
 ### Step-4
 [Baixe o ffmpeg!](https://www.gyan.dev/ffmpeg/builds/).\
-Adicione-o nas Variáveis de Ambiente
-Certifique-se de que:
-• Existe uma pasta chamada "musicas_youtube" no mesmo diretório do seu script
-• A pasta contém os arquivos que você quer converter
-• O ffmpeg está instalado e configurado corretamente no seu sistema
+Adicione-o nas Variáveis de Ambiente\
+Certifique-se de que:\
+• Existe uma pasta chamada "musicas_youtube" no mesmo diretório do seu script\
+• A pasta contém os arquivos que você quer converter\
+• O ffmpeg está instalado e configurado corretamente no seu sistema\
